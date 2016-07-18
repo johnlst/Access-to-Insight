@@ -28,11 +28,9 @@ See also: [No Strings Attached: The Buddha's Culture of Generosity](/lib/authors
 
 ---
 
-[![Creative Commons Attribution-NonCommercial 4.0 International License][copyright]](http://creativecommons.org/licenses/by-nc/4.0/)
-[copyright]: http://www.accesstoinsight.org/img/cc-by-nc-88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License"
-
 Copyright © 1997 Thanissaro Bhikkhu (This is the copyright notice.)
 
-From Access to Insight (Legacy Edition, version 2013.11.24.09). (This is the attribution. Note the link back to the "official" ATI website.)
+From [Access to Insight](http://accesstoinsight.org/) (Legacy Edition, version 2013.11.24.09). *(This is the attribution. Note the link back to the "official" ATI website.)*
 
-cc-by-nc-88x31 The text of this page is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of the license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/). (This is the license restatement. Note the existence of links back to the "official" Creative Commons license page.)
+[![Creative Commons Attribution-NonCommercial 4.0 International License][copyright]](http://creativecommons.org/licenses/by-nc/4.0/)
+[copyright]: http://www.accesstoinsight.org/img/cc-by-nc-88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License" The text of this page is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of the license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/). *(This is the license restatement. Note the existence of links back to the "official" Creative Commons license page.)*
