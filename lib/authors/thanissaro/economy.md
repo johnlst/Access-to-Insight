@@ -1,6 +1,6 @@
-# The Econy of Gifts
-## by Thanissaro Bhikkhu
-### © 1997
+# The Economy of Gifts
+### by Thanissaro Bhikkhu
+© 1997
 
 According to the Buddhist monastic code, monks and nuns are not allowed to accept money or even to engage in barter or trade with lay people. They live entirely in an economy of gifts. Lay supporters provide gifts of material requisites for the monastics, while the monastics provide their supporters with the gift of the teaching. Ideally — and to a great extent in actual practice — this is an exchange that comes from the heart, something totally voluntary. There are many stories in the texts that emphasize the point that returns in this economy — it might also be called an economy of merit — depend not on the material value of the object given, but on the purity of heart of the donor and recipient. You give what is appropriate to the occasion and to your means, when and wherever your heart feels inspired. For the monastics, this means that you teach, out of compassion, what should be taught, regardless of whether it will sell. For the laity, this means that you give what you have to spare and feel inclined to share. There is no price for the teachings, nor even a "suggested donation." Anyone who regards the act of teaching or the act of giving requisites as a repayment for a particular favor is ridiculed as mercenary. Instead, you give because giving is good for the heart and because the survival of the Dhamma as a living principle depends on daily acts of generosity.
 
@@ -27,10 +27,13 @@ Periodically, throughout the history of Buddhism, the economy of gifts has broke
 
 See also: [No Strings Attached: The Buddha's Culture of Generosity](/lib/authors/thanissaro/nostringsattached.md), by Thanissaro Bhikkhu.
 
-```
+---
+
+![Creative Commons Attribution-NonCommercial 4.0 International License][copyright](http://creativecommons.org/licenses/by-nc/4.0/)
+[copyright]: http://www.accesstoinsight.org/img/cc-by-nc-88x31.png "Copyright"
+
 Copyright © 1997 Thanissaro Bhikkhu (This is the copyright notice.)
 
 From Access to Insight (Legacy Edition, version 2013.11.24.09). (This is the attribution. Note the link back to the "official" ATI website.)
 
 cc-by-nc-88x31 The text of this page is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of the license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/). (This is the license restatement. Note the existence of links back to the "official" Creative Commons license page.)
-```
