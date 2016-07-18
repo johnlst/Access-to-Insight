@@ -31,7 +31,7 @@ See also: [No Strings Attached: The Buddha's Culture of Generosity](/lib/authors
 
 ---
 
-Copyright © 1997 Thanissaro Bhikkhu (This is the copyright notice.)
+Copyright © 1997 Thanissaro Bhikkhu *(This is the copyright notice.)*
 
 From [Access to Insight](http://accesstoinsight.org/) (Legacy Edition, version 2013.11.24.09). *(This is the attribution. Note the link back to the "official" ATI website.)*
 
