@@ -2,6 +2,7 @@
 ## The Buddha's Culture of Generosity
 ### by Thanissaro Bhikkhu
 
+<!-- BEGIN COPYRIGHTED TEXT CHUNK -->
 “How can I ever repay you for your teaching?”
 
 Good meditation teachers often hear this question from their students, and the best answer I know for it is one that my teacher, Ajaan Fuang, gave every time:
@@ -67,12 +68,13 @@ On retreats, dana could be discussed in a general way, in the context of the man
 ---
 
 See also: [The Economy of Gifts](/lib/authors/thanissaro/economy.md), by Thanissaro Bhikkhu.
+<!-- #COPYRIGHTED_TEXT_CHUNK (END OF COPYRIGHTED TEXT CHUNK) -->
 
 ---
 
-Copyright © 1997 Thanissaro Bhikkhu *(This is the copyright notice.)*
+Copyright © 2009 Thanissaro Bhikkhu *(This is the copyright notice.)*
 
-From [Access to Insight](http://accesstoinsight.org/) (Legacy Edition, version 2013.11.24.09). *(This is the attribution. Note the link back to the "official" ATI website.)*
+From [Access to Insight](http://accesstoinsight.org/) (Legacy Edition, 5 June 2010). *(This is the attribution. Note the link back to the "official" ATI website.)*
 
 [![Creative Commons Attribution-NonCommercial 4.0 International License][copyright]](http://creativecommons.org/licenses/by-nc/4.0/) "Creative Commons Attribution-NonCommercial 4.0 International License" The text of this page is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of the license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/). *(This is the license restatement. Note the existence of links back to the "official" Creative Commons license page.)*
 
