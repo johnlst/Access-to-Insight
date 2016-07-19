@@ -72,9 +72,9 @@ See also: [The Economy of Gifts](/lib/authors/thanissaro/economy.md), by Thaniss
 
 ---
 
-Copyright © 2009 Thanissaro Bhikkhu *(This is the copyright notice.)*
+Copyright © 2009 Thanissaro Bhikkhu.
 
-From [Access to Insight](http://accesstoinsight.org/) (Legacy Edition, 5 June 2010). *(This is the attribution. Note the link back to the "official" ATI website.)*
+"No Strings Attached: The Buddha's Culture of Generosity", by Thanissaro Bhikkhu. Access to Insight (Legacy Edition), 5 June 2010, <http://www.accesstoinsight.org/lib/authors/thanissaro/nostringsattached.html>.
 
 [![Creative Commons Attribution-NonCommercial 4.0 International License][copyright]](http://creativecommons.org/licenses/by-nc/4.0/) "Creative Commons Attribution-NonCommercial 4.0 International License" The text of this page is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of the license, visit [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/). *(This is the license restatement. Note the existence of links back to the "official" Creative Commons license page.)*
 
